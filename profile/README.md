@@ -1,11 +1,11 @@
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/profile/assets/banner-dark.png">
-  <img src="/profile/assets/banner-light.png" width="820" alt="Auralis. Tools built for AI agents, with you as the supervisor. The icons of Auralis Terminus, Auralis Moveo, Auralis Tessera and Auralis Cortex.">
+  <img src="/profile/assets/banner-light.png" width="820" alt="Auralis. Agent-first tools. Tools built for AI agents first, and for the people who work with them. The icons of Auralis Terminus, Auralis Moveo, Auralis Tessera and Auralis Cortex.">
 </picture>
 </p>
 
-The agent does the work. You decide what goes out. Everything runs on your own computer.
+Free for personal use. Everything runs on your own computer.
 
 ### Products
 
