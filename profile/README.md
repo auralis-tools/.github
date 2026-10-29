@@ -1,7 +1,7 @@
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/profile/assets/banner-dark.png">
-  <img src="/profile/assets/banner-light.png" width="820" alt="Auralis. Agent-first tools. Tools built for AI agents first, and for the people who work with them. The icons of Auralis Terminus, Auralis Moveo, Auralis Tessera and Auralis Cortex.">
+  <img src="/profile/assets/banner-light.png" width="820" alt="Auralis. Agent-first tools. Tools built for AI agents first, and for the people who work with them. The icons of Auralis Terminus, Auralis Cortex, Auralis Tessera and Auralis Moveo.">
 </picture>
 </p>
 
@@ -9,7 +9,7 @@ Free for personal use. Everything runs on your own computer.
 
 ### Products
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="/profile/assets/card-terminus-dark.png"><img src="/profile/assets/card-terminus-light.png" width="410" alt="Auralis Terminus, in development, Windows 11. Claude Code, Codex, Gemini CLI and 15 more, side by side in real terminals. See which agent waits for you and how much of your limits is left."></picture><picture><source media="(prefers-color-scheme: dark)" srcset="/profile/assets/card-moveo-dark.png"><img src="/profile/assets/card-moveo-light.png" width="410" alt="Auralis Moveo, in development. A video studio where your AI agent does the cutting: posts, clips and subtitles from almost any video. You just say yes, no, or fix this."></picture><picture><source media="(prefers-color-scheme: dark)" srcset="/profile/assets/card-tessera-dark.png"><img src="/profile/assets/card-tessera-light.png" width="410" alt="Auralis Tessera, in development. A design tool whose first user is an AI agent. Designs live as data in your repository: your agent edits, you look and approve."></picture><picture><source media="(prefers-color-scheme: dark)" srcset="/profile/assets/card-cortex-dark.png"><img src="/profile/assets/card-cortex-light.png" width="410" alt="Auralis Cortex, in development. Memory for agents that you can check. It decides what to keep and what goes into context, and every answer leaves a receipt."></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="/profile/assets/card-terminus-dark.png"><img src="/profile/assets/card-terminus-light.png" width="410" alt="Auralis Terminus, in development, Windows 11. Claude Code, Codex, Gemini CLI and 15 more, side by side in real terminals. See which agent waits for you and how much of your limits is left."></picture><picture><source media="(prefers-color-scheme: dark)" srcset="/profile/assets/card-cortex-dark.png"><img src="/profile/assets/card-cortex-light.png" width="410" alt="Auralis Cortex, in development. Memory for agents that you can check. It decides what to keep and what goes into context, and every answer leaves a receipt."></picture><picture><source media="(prefers-color-scheme: dark)" srcset="/profile/assets/card-tessera-dark.png"><img src="/profile/assets/card-tessera-light.png" width="410" alt="Auralis Tessera, in development. A design tool whose first user is an AI agent. Designs live as data in your repository: your agent edits, you look and approve."></picture><picture><source media="(prefers-color-scheme: dark)" srcset="/profile/assets/card-moveo-dark.png"><img src="/profile/assets/card-moveo-light.png" width="410" alt="Auralis Moveo, in development. A video studio where your AI agent does the cutting: posts, clips and subtitles from almost any video. You just say yes, no, or fix this."></picture></p>
 
 ### How we build
 
